@@ -1,9 +1,16 @@
 {
-  "posts": [
+  "location": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "goa",
+      "price": 305
+    },
+    {
+      "id": 2,
+      "title": "moa"
+      "price": 505
+    },
+    
   ],
   "profile": {
     "name": "typicode"
